@@ -23,7 +23,7 @@ Se proporciona un callback simple que imprime los datos actualizados en tiempo r
 Para ejecutar el código, se crea una instancia de `RealTimeDataManager`, se suscribe un callback al `EventManager`, y luego se inicia la actualización periódica de datos.
 
 ## Resultado 
-![Resultado del ejercicio 1, aquí se ve donde se imprimen los valores de la temperatura y la humedad con pocos decimales correctamente](imagen/Ejercicio1.PNG)
+![Resultado del ejercicio 1, aquí se ve donde se imprimen los valores de la temperatura y la humedad con pocos decimales correctamente](Resultados/Ejercicio1.PNG)
 
 2. Código de Calculadora con Callbacks y Lambda
 
@@ -41,7 +41,7 @@ El código se divide en tres funciones principales: `get_user_input`, `ejecutar_
 
 - **`main:`** La función principal del programa. Utiliza un bucle while para mantener la calculadora en funcionamiento hasta que el usuario decida salir. Dentro del bucle, obtiene la entrada del usuario, realiza la operación seleccionada utilizando la función `ejecutar_operacion`, y maneja casos de salida.
 ## Resultado
-![Resultado del ejercicio 2, aquí se ve donde se solicita dos numeros y el operador para luego calcular su valor](imagen/Ejercicio2.PNG)
+![Resultado del ejercicio 2, aquí se ve donde se solicita dos numeros y el operador para luego calcular su valor](Resultados/Ejercicio2.PNG)
 
 ## Uso de Funciones Lambda:
 
