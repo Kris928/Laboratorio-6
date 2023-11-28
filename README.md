@@ -1,6 +1,6 @@
 # Laboratorio-6
 Laboratorio 6 (Callbacks y Funciones Lambda en Python) 
-1. Callbacks
+# Callbacks
 ## Descripción del Código
 El siguiente código implementa una simulación de actualización de datos en tiempo real utilizando números aleatorios para representar la temperatura y la humedad. El objetivo principal es demostrar el uso de una clase `RealTimeDataManager` que utiliza un temporizador para notificar eventos periódicos de actualización de datos a través de un `EventManager`.
 
@@ -24,8 +24,7 @@ Para ejecutar el código, se crea una instancia de `RealTimeDataManager`, se sus
 
 ## Resultado 
 ![Resultado del ejercicio 1, aquí se ve donde se imprimen los valores de la temperatura y la humedad con pocos decimales correctamente](Resultados/Ejercicio1.PNG)
-
-2. Código de Calculadora con Callbacks y Lambda
+# Código de Calculadora con Callbacks y Lambda
 
 ## Descripción General:
 
